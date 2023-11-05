@@ -7,7 +7,7 @@ t5_zip_filename = "t5-paraphrase.zip"
 
 
 def download_model():
-    file_url = 'https://doc-14-58-docs.googleusercontent.com/docs/securesc/aqclo059d265do7m8bo1gcua1goo9f9k/77mp10ip0er8buqgqccbg679d5noa4qj/1699211925000/04388380893538145158/17224040402858289494Z/1jZuelfXcRw3recfZWJ6LIBtj9YS5Uogf?e=download&uuid=023d654e-f7ad-48d5-a9c2-530569252f8a&nonce=7gg79fl71o9ii&user=17224040402858289494Z&hash=h3vkdpa3136nfap0boonhut7dcjcrpqh'
+    file_url = 'https://drive.usercontent.google.com/download?id=1jZuelfXcRw3recfZWJ6LIBtj9YS5Uogf&export=download&authuser=0&confirm=t&uuid=8f252383-2507-47f1-8591-ae34d2981538&at=APZUnTUv6SxGHFG2tRkEkuTb75x5:1699215050917'
 
     try:
         response = requests.get(file_url)
